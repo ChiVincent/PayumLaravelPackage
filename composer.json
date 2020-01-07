@@ -1,5 +1,5 @@
 {
-    "name": "payum/payum-laravel-package",
+    "name": "chivincent/payum-laravel-package",
     "type": "library",
     "description": "Rich payment solutions for Laravel framework. Paypal, payex, authorize.net, be2bill, omnipay, recurring paymens, instant notifications and many more",
     "keywords": [
@@ -35,9 +35,9 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "illuminate/container": "^4|^5.1",
-        "illuminate/routing": "^4|^5.1",
-        "illuminate/support": "^4|^5.1",
+        "illuminate/container": "^4|^5.1|^6",
+        "illuminate/routing": "^4|^5.1|^6",
+        "illuminate/support": "^4|^5.1|^6",
         "payum/core": "^1"
     },
     "suggest": {
